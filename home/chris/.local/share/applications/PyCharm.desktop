@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=pyCharm
+GenericName=pyCharm
+GenericName[de]=pyCharm
+GenericName[en_GB]=pyCharm
+Exec=/opt/pyCharm/bin/pycharm.sh
+Terminal=false
+Icon=/opt/pyCharm/bin/pycharm.png
+Type=Application
+Categories=Development;IDE;
+X-Ayatana-Desktop-Shortcuts=NewWindow;NewIncognito

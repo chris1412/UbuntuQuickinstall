@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Zotero
+Name[de]=Zotero
+GenericName=Zotero
+Comment=Zotero
+Exec=/opt/Zotero/zotero
+Icon=zotero
+Terminal=false
+Type=Application
+Categories=Office;Utility;

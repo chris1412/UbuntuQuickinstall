@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=ArgoUML
+Name[de_DE]=ArgoUML
+GenericName=ArgoUML
+GenericName[de]=ArgoUML
+Exec=/opt/ArgoUML/argouml.sh
+Terminal=false
+Icon=/opt/ArgoUML/icon/argouml2.svg
+Type=Application
+Categories=Development;Modeling;UML;
+X-Ayatana-Desktop-Shortcuts=NewWindow;NewIncognito

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=PhpStorm
+GenericName=PhpStorm
+GenericName[de]=PhpStorm
+GenericName[en_GB]=PhpStorm
+Exec=/opt/PhpStorm/bin/phpstorm.sh
+Terminal=false
+Icon=/opt/PhpStorm/bin/webide.png
+Type=Application
+Categories=Development;IDE;
+X-Ayatana-Desktop-Shortcuts=NewWindow;NewIncognito

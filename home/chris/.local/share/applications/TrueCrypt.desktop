@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=TrueCrypt
+GenericName=TrueCrypt
+GenericName[de]=TrueCrypt
+GenericName[en_GB]=TrueCrypt
+Exec=truecrypt
+Terminal=false
+Icon=/home/chris/.local/share/icons/truecrypt.png
+Type=Application
+Categories=Utility;
+X-Ayatana-Desktop-Shortcuts=NewWindow;NewIncognito

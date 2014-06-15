@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Modelio
+Name[de]=Modelio
+GenericName=Modelio
+Comment=Modelio
+Exec=/opt/modelio/modelio
+Icon=/opt/modelio/icon.xpm
+Terminal=false
+Type=Application
+Categories=Utility;Development;IDE;

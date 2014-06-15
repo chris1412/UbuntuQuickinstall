@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Name=Teamspeak3
+Comment=Teamspeak3 Client
+Exec=/opt/TeamSpeak3-Client/ts3client_runscript.sh
+Icon=/opt/TeamSpeak3-Client/gfx/ts3.png
+Terminal=0
+Type=Application
+Encoding=UTF-8
+Categories=Network;Application;
+Name[de_DE]=teamspeak3.desktop

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Dart Editor
+GenericName=Dart Editor
+GenericName[de]=Dart Editor
+GenericName[en_GB]=Dart Editor
+Exec=/opt/dart/DartEditor
+Terminal=false
+Icon=/opt/dart/icon.xpm
+Type=Application
+Categories=Development;IDE;
+X-Ayatana-Desktop-Shortcuts=NewWindow;NewIncognito

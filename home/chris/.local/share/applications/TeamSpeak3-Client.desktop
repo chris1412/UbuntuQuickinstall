@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Teamspeak3
+GenericName=Teamspeak3
+GenericName[de]=Teamspeak3
+GenericName[en_GB]=Teamspeak3
+Exec=/opt/TeamSpeak3-Client/ts3client_runscript.sh
+Terminal=false
+Icon=/home/chris/.local/share/icons/teamspeak3.png
+Type=Application
+Categories=Network;Utility;
+X-Ayatana-Desktop-Shortcuts=NewWindow;NewIncognito

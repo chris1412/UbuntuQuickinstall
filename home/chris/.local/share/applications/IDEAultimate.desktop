@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=IDEA Ultimate
+GenericName=IDEA-IU
+GenericName[de]=IDEA Ultimate
+GenericName[en_GB]=IDEA Ultimate
+Exec=/opt/idea-IU/bin/idea.sh
+Terminal=false
+Icon=/opt/idea-IU/bin/idea.png
+Type=Application
+Categories=Development;IDE;
+X-Ayatana-Desktop-Shortcuts=NewWindow;NewIncognito
